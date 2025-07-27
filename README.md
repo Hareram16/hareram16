@@ -1,26 +1,78 @@
 <h1 align="center">Hi 👋, I'm Hareram Zumber Wadekar</h1>
-<h3 align="center">🚀 Passionate Computer Engineering Student | MERN Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">🚀 Final Year Computer Engineering Student | Full Stack MERN Developer | LeetCode 450+ | College Topper (9+ CGPA)</h3>
 
-- 🎓 Third-year student at **Dr. D. Y. Patil College of Engineering and Innovation**
-- 💻 Working on **FoundrOS – AI-Powered Startup Builder Dashboard (MERN + LLM)**
-- 🌱 Currently learning **React.js, Node.js, Web3 & System Design**
-- 🛠️ Final Year Project: **FoundrOS** | Past: **MiniMarket in Django**, **Student Help Desk in Java**
-- 📫 Reach me at: `hareram.wadekar@gmail.com`
-- ⚡ Fun fact: I love solving real-world problems through tech!
+---
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,github,vscode,postman" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Code.+Build.+Solve.+Repeat.;MERN+Stack+%7C+JavaScript+%7C+Java+%7C+AI+%7C+Cloud;Passionate+Engineer+%7C+Tech+Explorer+%7C+Lifelong+Learner" />
 </p>
 
-### 📈 GitHub Stats
-![Hareram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hareramwadekar&show_icons=true&theme=radical)
+---
+
+### 🧑‍🎓 About Me
+
+- 🎓 Final year B.E. Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Pune**
+- 🏆 **Topper of my college** with **9+ CGPA**
+- 💻 Passionate about building full-stack web apps, exploring AI, and solving real-world problems
+- 🌐 Strong problem-solving skills — solved **450+ LeetCode problems**
+- 🛠️ Currently working on a major project: **FoundrOS – AI-Powered Startup Builder Dashboard**
+- ☁️ Completed Cybersecurity Internship by **Cisco & AICTE**
+- 🤝 Always eager to collaborate on meaningful open-source or real-world tech projects
+- 📫 Reach me at: **hareram.wadekar@gmail.com**
+
+---
+
+### 🚀 Tech Stack & Tools
+
+![Languages](https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,bootstrap)
 
 ---
 
 ### 📌 Pinned Projects
-- `FoundrOS`: AI-powered startup builder (MERN)
-- `MiniMarket`: Grocery buying site (Django)
-- `Student Help Desk`: Complaint system with chatbot (Java + MySQL)
+
+#### 🔹 [Wanderlust](https://github.com/hareramwadekar/wanderlust)
+> A full-featured **Travel Listing Web App** (inspired by YelpCamp) built with Node.js, Express, MongoDB, and EJS. Includes authentication, reviews, image uploads, and more.
+
+#### 🔹 [Spotify Clone](https://github.com/hareramwadekar/spotify-clone)
+> A **responsive front-end clone of Spotify**, designed with HTML, CSS, and JavaScript. Includes basic interactivity and music UI.
+
+#### 🔹 [JavaScript Practice Projects](https://github.com/hareramwadekar/javascript-projects)
+> Mini projects like to-do app, calculator, weather app, etc., made with vanilla JS for hands-on DOM, events, and UI skills.
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hareramwadekar&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareramwadekar&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hareramwadekar&theme=dracula)
+
+---
+
+### 🏆 Achievements & Highlights
+
+- ⭐ **Topper** with consistent academic performance (CGPA 9+)
+- 🧠 Solved **450+ LeetCode problems** (focus on DSA & problem-solving)
+- 🛠️ Built **6+ complete full-stack projects** from scratch
+- 📚 Self-learned **Node.js, React, MongoDB**, and working on **LLM integration**
+- 👨‍💻 Completed internships in **Cloud Security** and **Cybersecurity**
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hareramwadekar/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:hareram.wadekar@gmail.com)
+
+---
+
+> “The best way to predict the future is to build it.” – Alan Kay
+
