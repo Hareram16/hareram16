@@ -24,7 +24,7 @@
 
 ### 🚀 Tech Stack & Tools
 
-![Languages](https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql)
+![Languages](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql)
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,bootstrap)
 
 ---
