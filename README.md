@@ -45,15 +45,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hareramwadekar&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareramwadekar&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hareram16&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareram16&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
 ### 📈 Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hareramwadekar&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hareram16&theme=dracula)
 
 ---
 
