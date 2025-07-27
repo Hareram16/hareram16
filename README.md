@@ -3,8 +3,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C4FF&center=true&vCenter=true&width=450&lines=Code.+Build.+Solve.+Repeat.;MERN+Stack+%7C+JavaScript+%7C+Java+%7C+AI+%7C+Cloud;Passionate+Engineer+%7C+Tech+Explorer+%7C+Lifelong+Learner" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Code.+Build.+Solve.+Repeat.;MERN+Stack+Developer;450%2B+LeetCode+Problems+Solved;Topper+9%2B+CGPA+%7C+Cloud+%26+AI+Learner;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 🛠️ Currently working on a major project: **FoundrOS – AI-Powered Startup Builder Dashboard**
 - ☁️ Completed Cybersecurity Internship by **Cisco & AICTE**
 - 🤝 Always eager to collaborate on meaningful open-source or real-world tech projects
-- 📫 Reach me at: **hareram.wadekar@gmail.com**
+- 📫 Reach me at: **hareramwadekar@gmail.com**
 
 ---
 
